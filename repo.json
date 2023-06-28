@@ -39,6 +39,44 @@
             ],
 
             "PackageID": "com.epos.lsfootnote"
+        },
+        {
+
+            "Name": "AppCC",
+            "Description": "Launching apps from the Control Center with ease",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ico_2.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/headerrepo.png",
+            "Category": "Control Center",
+            "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss2_2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
+                  "Description": "icon option changes"
+              }
+            ],
+            "PackageID": "com.epos.appcc"
+
         }
     ]
 }
