@@ -221,6 +221,53 @@
               }
             ],
             "PackageID": "com.epos.novulntools2"
+        },
+        {
+            "Name": "FrostedUI",
+            "Description": "Completely change the way iOS looks",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/headerrepo.gif",
+            "Category": "UI",
+            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss8_4.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
+                  "Description": "added option to change notif and notif shadow color trough tweak settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "hhttps://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                  "Description": "Blur Value stepper style instead of the slider & improved titles"
+              }
+            ],
+            "PackageID": "com.epos.frostedui"
 
         }
     ]
