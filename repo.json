@@ -75,7 +75,39 @@
                   "Description": "icon option changes"
               }
             ],
+
             "PackageID": "com.epos.appcc"
+        },
+        {
+
+            "Name": "Debug Stoofs",
+            "Description": "Enable debug options",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ico.jpg",
+            "Category": "Settings",
+            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.debugstoofs"
 
         }
     ]
