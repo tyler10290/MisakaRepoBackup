@@ -107,6 +107,7 @@
                   "Description": "initial release"
               }
             ],
+		
             "PackageID": "com.epos.debugstoofs"
         },
         {
