@@ -164,6 +164,63 @@
               }
             ],
             "PackageID": "com.epos.felicitysettings"
+        },
+        {
+            "Name": "NoVulnTools2",
+            "Description": "The best toolbox for your device",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ico_2.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/headerrepo.png",
+            "Category": "Settings",
+            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss_3.jpg",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss2_3.jpg",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss3_3.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.1.misaka",
+                  "Description": "File size fix - removed the home button speed"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.2.misaka",
+                  "Description": "File size fix 2"
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.3.misaka",
+                  "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.4.misaka",
+                  "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.misaka",
+                  "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
+              }
+            ],
+            "PackageID": "com.epos.novulntools2"
 
         }
     ]
