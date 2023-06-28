@@ -263,11 +263,42 @@
               },
               {
                   "Version": "1.2",
-                  "Package": "hhttps://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
                   "Description": "Blur Value stepper style instead of the slider & improved titles"
               }
             ],
             "PackageID": "com.epos.frostedui"
+        },
+        {
+            "Name": "14 Pro Lock",
+            "Description": "The Lock of a Pro",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ico.png",
+            "Category": "Lock",
+            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/gif.gif",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss2.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.14prolock"
 
         }
     ]
