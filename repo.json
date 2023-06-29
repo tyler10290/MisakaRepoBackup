@@ -5,7 +5,7 @@
     "RepositoryIcon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/repoicon.png",
     "RepositoryWebsite": "https://github.com/tyler10290/MisakaRepoBackup",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/EPOS05/MisakaRepoBackup/main/RepoAssets/",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/",
         "ViewCount": true
     },
     "RepositoryContents": [
@@ -24,6 +24,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ico_2.png",
+	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/LSFootnote - Banner.png",
             "Category": "Lock Screen",
             "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "Screenshot": [
