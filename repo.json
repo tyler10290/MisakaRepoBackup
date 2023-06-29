@@ -95,6 +95,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ico.jpg",
+	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/headerrepo.png",
             "Category": "Settings",
             "Caption": "Debug Stoofs allows you to enable a few debugging options.",
             "Screenshot": [
@@ -285,6 +286,7 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ico.png",
+	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/headerrepo.png",
             "Category": "Lock",
             "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
 			"Screenshot": [
