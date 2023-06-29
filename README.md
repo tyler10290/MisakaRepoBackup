@@ -3,4 +3,4 @@
 A backup repo for all my tweaks 🍓
 
 ## Repo
-Add my repo using the following URL: https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json
+You can add my repo by copying the following URL: https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json
