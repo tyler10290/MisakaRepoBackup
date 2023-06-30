@@ -302,6 +302,39 @@
               }
             ],
             "PackageID": "com.epos.14prolock"
+        },
+        {
+            "Name": "ColorOS",
+            "Description": "...",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/headerrepo.png",
+            "Category": "UI",
+            "Caption": "...",
+			"Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/ColorOS.misaka",
+                  "Description": "initial release"
+              }
+            ],
+
+            "PackageID": "com.epos.coloros"
 
         }
     ]
