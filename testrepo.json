@@ -304,7 +304,7 @@
             "PackageID": "com.epos.14prolock"
         },
         {
-            "Name": "DefrostedUI",
+            "Name": "ColorOS",
             "Description": "A slight hint of color",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
@@ -317,21 +317,21 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/icon.png",
-            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/headerrepo.png",
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/headerrepo.png",
             "Category": "UI",
             "Caption": "Work In Progress... Come Back Later...",
 			"Screenshot": [
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/ss1.png",
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/ss2.png",
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/ss3.png",
-		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/ss4.png",
-		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DefrostedUI/ss5.png"
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss1.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss3.png",
+		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss4.png",
+		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss5.png"
             ],
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/DefrostedUI/Releases/",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/",
                   "Description": "initial release"
               }
             ],
