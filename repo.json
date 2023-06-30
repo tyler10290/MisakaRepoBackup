@@ -305,7 +305,7 @@
         },
         {
             "Name": "ColorOS",
-            "Description": "...",
+            "Description": "A slight hint of color",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
