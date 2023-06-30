@@ -320,7 +320,7 @@
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/tweakheader.png",
             "Category": "UI",
-            "Caption": "Work In Progress...",
+            "Caption": "Work In Progress... Come Back Later...",
 			"Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
@@ -329,7 +329,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/ColorOS.misaka",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/",
                   "Description": "initial release"
               }
             ],
