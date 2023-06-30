@@ -331,7 +331,7 @@
 			"Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorOS/Releases/ColorOS.misaka",
                   "Description": "initial release"
               }
             ],
