@@ -322,9 +322,11 @@
             "Category": "UI",
             "Caption": "Work In Progress... Come Back Later...",
 			"Screenshot": [
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/",
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/"
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss1.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss3.png",
+		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss4.png",
+		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorOS/ss5.png"
             ],
 			"Releases": [
               {
