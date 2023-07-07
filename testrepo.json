@@ -339,6 +339,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
+                  "Description": "Added an option to make the App Library Pods transparent"
               }
             ],
 
