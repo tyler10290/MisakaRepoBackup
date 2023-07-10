@@ -343,6 +343,35 @@
             ],
 
             "PackageID": "com.epos.colorboard"
+        },
+        {
+            "Name": "VersionTroller :D",
+            "Description": "Change your internal iOS version to 17 to trick apps.  Warning⚠️⚠️⚠️!!  New misaka tweaks will not be able to be downloaded with this turned on!",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "DauntingEmperor",
+                "Links": [
+                    {
+                        "Label": "DauntingEmperor",
+                        "Link": "https://Github.com/DauntingEmperor"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/SystemTroller/DauntingEmperor.png",
+	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/SystemTroller/headerrepo.png",
+            "Category": "App Custom",
+            "Caption": "Troll your system settings",
+            "Screenshot": null,
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/SystemTroller/Releases/SystemTroller.misaka",
+                  "Description": "initial release"
+              }
+            ],
+
+            "PackageID": "org.DauntingEmperor.SystemTroller"
 
         }
     ]
