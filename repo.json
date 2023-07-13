@@ -132,7 +132,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/headerrepo_2.png",
-            "Category": "Theme",
+            "Category": "Settings",
             "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ss.png",
@@ -240,7 +240,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ico.png",
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/headerrepo.gif",
-            "Category": "UI",
+            "Category": "Springboard",
             "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
 			"Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss_4.png",
@@ -287,7 +287,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ico.png",
 	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/headerrepo.png",
-            "Category": "Lock",
+            "Category": "Lockscreen",
             "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
 			"Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/gif.gif",
@@ -323,7 +323,7 @@
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/icon.png",
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/headerrepo.png",
-            "Category": "UI",
+            "Category": "Springboard",
             "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors.",
 			"Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss1.png",
