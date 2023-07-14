@@ -1,5 +1,5 @@
 ![Icon](https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/repobanner.png)
-# tyler1029
+# tyler10290
 A backup repo for all my tweaks 🍓
 
 ## Repo
