@@ -348,6 +348,11 @@
                   "Version": "1.1",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
                   "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
+                  "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
               }
             ],
             "PackageID": "com.epos.colorboard"
@@ -355,3 +360,4 @@
         }
     ]
 }
+
