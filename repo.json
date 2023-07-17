@@ -78,7 +78,7 @@
               {
                   "Version": "1.2",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
-                  "Description": "icon option changes"
+                  "Description": "Added better support for other Control Center tweaks"
               }
             ],
             "PackageID": "com.epos.appcc"
