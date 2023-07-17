@@ -10,7 +10,7 @@
     },
     "RepositoryContents": [
         {
-	    "Name": "LSFootnote",
+        "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
@@ -24,14 +24,14 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ico_2.png",
-	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/headerrepo.png",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss_2.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss2.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
@@ -64,7 +64,7 @@
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss2_2.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC.misaka",
@@ -74,9 +74,13 @@
                   "Version": "1.1",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
                   "Description": "icon option changes"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
+                  "Description": "icon option changes"
               }
             ],
-
             "PackageID": "com.epos.appcc"
         },
         {
@@ -95,21 +99,21 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ico.jpg",
-	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/headerrepo.png",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/headerrepo.png",
             "Category": "Settings",
             "Caption": "Debug Stoofs allows you to enable a few debugging options.",
             "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss_2.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss2.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
                   "Description": "initial release"
               }
             ],
-		
+        
             "PackageID": "com.epos.debugstoofs"
         },
         {
@@ -138,7 +142,7 @@
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ss.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ss2.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
@@ -185,12 +189,12 @@
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/headerrepo.png",
             "Category": "Settings",
             "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
-			"Screenshot": [
+            "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss_3.jpg",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss2_3.jpg",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss3_3.jpg"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
@@ -242,7 +246,7 @@
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/headerrepo.gif",
             "Category": "Springboard",
             "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
-			"Screenshot": [
+            "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss_4.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss2_4.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss3_4.png",
@@ -252,7 +256,7 @@
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss7_4.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss8_4.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
@@ -286,15 +290,15 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ico.png",
-	    "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/headerrepo.png",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/headerrepo.png",
             "Category": "Lock Screen",
             "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
-			"Screenshot": [
+            "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/gif.gif",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss2.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
@@ -325,16 +329,16 @@
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/headerrepo.png",
             "Category": "Springboard",
             "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
-			"Screenshot": [
+            "Screenshot": [
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss1.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss2.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss3.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss4.png",
-		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss5.png",
-		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss6.png",
-		"https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss7.png"
+        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss5.png",
+        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss6.png",
+        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss7.png"
             ],
-			"Releases": [
+            "Releases": [
               {
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
