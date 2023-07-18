@@ -1,4 +1,4 @@
-![Icon](https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/repobannernew.png)
+![Icon](https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/repobanner-new.png)
 # tyler10290
 A backup repo for all my tweaks 🍓
 
