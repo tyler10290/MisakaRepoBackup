@@ -56,7 +56,7 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ico_4.jpg",
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ico_4.png",
             "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/headerrepo.png",
             "Category": "Control Center",
             "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
