@@ -167,6 +167,11 @@
                   "Version": "1.4",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
                   "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
+                  "Description": "Decreases file size (fixes iOS 15.1 issues)"
               }
             ],
             "PackageID": "com.epos.felicitysettings"
