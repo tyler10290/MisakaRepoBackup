@@ -361,6 +361,38 @@
               }
             ],
             "PackageID": "com.epos.colorboard"
+        },
+        {
+            "Name": "MuteAnimation",
+            "Description": "Custom mute image or animations",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ico.png",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/headerrepo.png",
+            "Category": "Springboard",
+            "Caption": "Changes your silent pill to a custom image or animation.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/gif.gif",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.muteanimation"
 
         }
     ]
