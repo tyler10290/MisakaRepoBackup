@@ -339,9 +339,9 @@
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss2.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss3.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss4.png",
-        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss5.png",
-        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss6.png",
-        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss7.png"
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss5.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss6.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss7.png"
             ],
             "Releases": [
               {
@@ -364,7 +364,7 @@
         },
         {
             "Name": "MuteAnimation",
-            "Description": "Custom mute image or animations",
+            "Description": "Custom mute animations or image",
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
@@ -380,12 +380,11 @@
                     }
                 ]
             },
-            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/icon.png",
-        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/headerrepo.png",
+            "Icon": "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MuteAnimation/ico.png",
             "Category": "Springboard",
             "Caption": "Changes your silent pill to a custom image or animation.",
             "Screenshot": [
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/gif.gif",
+                "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MuteAnimation/gif_2.gif",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss.png",
                 "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss2.png"
             ],
@@ -397,7 +396,6 @@
               }
             ],
             "PackageID": "com.epos.muteanimation"
-
         }
     ]
 }
