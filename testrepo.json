@@ -368,8 +368,12 @@
             "MinIOSVersion":"15.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
-                "Label": "tyler1029",
+                "Label": "tyler1029 & EPOS",
                 "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
                     {
                         "Label": "Discord: @tyler1029",
                         "Link": "https://discord.gg/bbJAqj7np5"
