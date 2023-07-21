@@ -394,6 +394,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
+                  "Description": "Added an option to adjust the position of the animation or custom image."
               }
             ],
             "PackageID": "com.epos.muteanimation"
