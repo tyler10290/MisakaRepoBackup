@@ -316,7 +316,7 @@
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
