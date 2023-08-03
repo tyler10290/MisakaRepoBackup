@@ -371,7 +371,7 @@
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
