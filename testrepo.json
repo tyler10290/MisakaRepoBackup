@@ -180,7 +180,7 @@
             "Name": "NoVulnTools2",
             "Description": "The best toolbox for your device",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
