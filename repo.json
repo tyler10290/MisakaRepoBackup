@@ -360,7 +360,7 @@
                   "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
               },
               {
-                  "Version": "1.2",
+                  "Version": "1.3",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
                   "Description": "Fixed Badge Color, & added support for kfd."
               }
