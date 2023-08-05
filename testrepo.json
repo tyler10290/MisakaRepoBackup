@@ -363,6 +363,11 @@
                   "Version": "1.3",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
                   "Description": "Fixed Badge Color, & added support for kfd."
+              },
+              {
+                  "Version": "1.4 Beta",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.4.misaka",
+                  "Description": "Added opacity values & a option to make the control center modules & toggles clear."
               }
             ],
             "PackageID": "com.epos.colorboard"
