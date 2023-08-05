@@ -367,7 +367,7 @@
               {
                   "Version": "1.4 Beta",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.4.misaka",
-                  "Description": "Added opacity values & a option to make the control center modules & toggles clear."
+                  "Description": "Added opacity values to Dock, Control Center & Folder colors & a option to make the control center modules & toggles clear."
               }
             ],
             "PackageID": "com.epos.colorboard"
