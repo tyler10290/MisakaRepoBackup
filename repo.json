@@ -308,6 +308,11 @@
                   "Version": "1.0",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
+                  "Description": "Quick fix - wasnt working on iPhone XR"
               }
             ],
             "PackageID": "com.epos.14prolock"
