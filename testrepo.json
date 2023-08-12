@@ -417,6 +417,39 @@
               }
             ],
             "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "QuickActionColor",
+            "Description": "Give your lockscreen a unique look",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"17.0",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lockscreen toggle color.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Blue.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Pink.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Green.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Rainbow.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quickactioncolor"
         }
     ]
 }
