@@ -377,7 +377,7 @@
               {
                   "Version": "1.5",
                   "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.5.misaka",
-                  "Description": "Changed Disable Effects to Enable - Now let’s you turn off options and the files will not be replaced, Improved Spotlight colors, Added a new Pink color for notification badges & general tweak stability improvements."
+                  "Description": "Changed Disable Effects to Enable, Now let’s you turn off options and the files will not be replaced, Improved Spotlight colors, Added a new Pink color for notification badges & general tweak stability improvements."
               }
             ],
             "PackageID": "com.epos.colorboard"
