@@ -12,8 +12,15 @@
         {
         "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
