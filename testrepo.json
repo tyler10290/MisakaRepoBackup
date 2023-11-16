@@ -13,7 +13,7 @@
         "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
