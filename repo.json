@@ -120,7 +120,7 @@
             "Name": "FelicitySettings",
             "Description": "a more colorful & detailed look for your settings",
             "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"16.1.2",
+            "MaxIOSVersion":"17.0",
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
