@@ -45,8 +45,15 @@
 
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -119,8 +126,15 @@
         {
             "Name": "FelicitySettings",
             "Description": "a more colorful & detailed look for your settings",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -179,8 +193,15 @@
         {
             "Name": "NoVulnTools2",
             "Description": "The best toolbox for your device",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -236,8 +257,15 @@
         {
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -283,8 +311,15 @@
         {
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -320,8 +355,15 @@
         {
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
@@ -385,8 +427,15 @@
         {
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029 & EPOS",
                 "Links": [
@@ -426,8 +475,15 @@
         {
             "Name": "QuickActionColor",
             "Description": "Give your lockscreen a unique look",
-            "MinIOSVersion":"15.0",
-            "MaxIOSVersion":"17.0",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "tyler1029",
                 "Links": [
