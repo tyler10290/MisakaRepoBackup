@@ -12,10 +12,10 @@
         {
         "Name": "LSFootnote",
             "Description": "a footnote on your lockscreen",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -52,10 +52,10 @@
 
             "Name": "AppCC",
             "Description": "Launching apps from the Control Center with ease",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -101,7 +101,7 @@
 
             "Name": "Debug Stoofs",
             "Description": "Enable debug options",
-            "MinIOSVersion":"15.0",
+            "MinIOSVersion":"14.0",
             "MaxIOSVersion":"16.1.2",
             "Author": {
                 "Label": "tyler1029",
@@ -133,10 +133,10 @@
         {
             "Name": "FelicitySettings",
             "Description": "a more colorful & detailed look for your settings",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -200,10 +200,10 @@
         {
             "Name": "NoVulnTools2",
             "Description": "The best toolbox for your device",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -264,10 +264,10 @@
         {
             "Name": "FrostedUI",
             "Description": "Completely change the way iOS looks",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -318,10 +318,10 @@
         {
             "Name": "14 Pro Lock",
             "Description": "The Lock of a Pro",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -362,10 +362,10 @@
         {
             "Name": "ColorBoard",
             "Description": "A slight hint of color",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -434,10 +434,10 @@
         {
             "Name": "MuteAnimation",
             "Description": "Custom mute animations or image",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
@@ -482,10 +482,10 @@
         {
             "Name": "QuickActionColor",
             "Description": "Give your lockscreen a unique look",
-            "MinIOSVersion": "15.0",
+            "MinIOSVersion": "14.0",
             "MaxIOSVersion": "16.6",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "14.0",
                 "MaxIOSVersion_CustomLabel": "16.6b1",
                 "Build": [
                     "20G5026e"
