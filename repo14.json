@@ -1,0 +1,523 @@
+{
+    "RepositoryName": "tyler10290",
+    "RepositoryDescription": "Backup Repo",
+    "RepositoryAuthor": "tyler1029",
+    "RepositoryIcon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/RepoAssets/newicon.png",
+    "RepositoryWebsite": "https://github.com/tyler10290/MisakaRepoBackup",
+    "Default": {
+        "HeaderImage": "https://github.com/tyler10290/MisakaRepoBackup/blob/main/RepoAssets/repobanner.png",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+        "Name": "LSFootnote",
+            "Description": "a footnote on your lockscreen",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ico_3.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "This tweak allows you to simply add a footnote saying anything you like right above the home bar on the lockscreen.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss_2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/LSFootnote/Releases/LSFootnote.misaka",
+                  "Description": "initial release"
+              }
+            ],
+
+            "PackageID": "com.epos.lsfootnote"
+        },
+        {
+
+            "Name": "AppCC",
+            "Description": "Launching apps from the Control Center with ease",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ico_4.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/headerrepo.png",
+            "Category": "Control Center",
+            "Caption": "AppCC Allows you to launch any application from the Control Center, It includes some preset applications or you can use a custom Bundle ID to an application currently installed on your device.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/AppCC/ss2_2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.1.misaka",
+                  "Description": "icon option changes"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/AppCC/Releases/AppCC1.2.misaka",
+                  "Description": "Added better support for other Control Center tweaks"
+              }
+            ],
+            "PackageID": "com.epos.appcc"
+        },
+        {
+
+            "Name": "Debug Stoofs",
+            "Description": "Enable debug options",
+            "MinIOSVersion":"15.0",
+            "MaxIOSVersion":"16.1.2",
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ico.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/headerrepo.png",
+            "Category": "Settings",
+            "Caption": "Debug Stoofs allows you to enable a few debugging options.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss_2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/DebugStoofs/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/DebugStoofs/Releases/DebugStoofs.misaka",
+                  "Description": "initial release"
+              }
+            ],
+        
+            "PackageID": "com.epos.debugstoofs"
+        },
+        {
+            "Name": "FelicitySettings",
+            "Description": "a more colorful & detailed look for your settings",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/headerrepo_2.png",
+            "Category": "Theme",
+            "Caption": "FelicitySettings takes everything that is great with the default iOS icon design and pushes it further.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FelicitySettings/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.1.misaka",
+                  "Description": "Adds option that allows users to set a custom image on top off settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.2.misaka",
+                  "Description": "Adds option to set a gap between the custom image and icloud"
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.3.misaka",
+                  "Description": "slightly decreases file size to make the tweak better compatible with iOS 15.0"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.4.misaka",
+                  "Description": "Decreases file size and adds icon for Home (fixes iOS 15.1 issues)"
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FelicitySettings/Releases/FelicitySettings1.5.misaka",
+                  "Description": "Decreases file size (fixes iOS 15.1 issues)"
+              }
+            ],
+            "PackageID": "com.epos.felicitysettings"
+        },
+        {
+            "Name": "NoVulnTools2",
+            "Description": "The best toolbox for your device",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/icontest.jpg",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/headerrepo.png",
+            "Category": "Settings",
+            "Caption": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ General.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss_3.jpg",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss2_3.jpg",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/NoVulnTools2/ss3_3.jpg"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools2.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.1.misaka",
+                  "Description": "File size fix - removed the home button speed"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.2.misaka",
+                  "Description": "File size fix 2"
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.3.misaka",
+                  "Description": "Custom settings icons support & Added toggle to enable or disable animation speed changes"
+              },
+              {
+                  "Version": "1.4",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.4.misaka",
+                  "Description": "slight re-design, changed default icons to the default ios icons, new low power icon that changes dynamically depending on iOS version, fixed VPN tab not working"
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/NoVulnTools2/Releases/NoVulnTools21.5.misaka",
+                  "Description": "Paste sound no longer requires a reboot, re-designed layout, lowers file size to support more iOS versions"
+              }
+            ],
+            "PackageID": "com.epos.novulntools2"
+        },
+        {
+            "Name": "FrostedUI",
+            "Description": "Completely change the way iOS looks",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ico.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/headerrepo.gif",
+            "Category": "Springboard",
+            "Caption": "FrostedUI - Revolutionise the way you view your notifications, control center, app library, 3D touch menus, folders, widgets and even UI alerts",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss2_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss3_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss4_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss5_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss6_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss7_4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/FrostedUI/ss8_4.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.1.misaka",
+                  "Description": "added option to change notif and notif shadow color trough tweak settings"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/FrostedUI/Releases/FrostedUI1.2.misaka",
+                  "Description": "Blur Value stepper style instead of the slider & improved titles"
+              }
+            ],
+            "PackageID": "com.epos.frostedui"
+        },
+        {
+            "Name": "14 Pro Lock",
+            "Description": "The Lock of a Pro",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ico.png",
+        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lock into the 14 Pro series lock glyph\nAlso has a better animation!!",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/gif.gif",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/14ProLock/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/14ProLock/Releases/14ProLock1.1.misaka",
+                  "Description": "Quick fix - wasnt working on iPhone XR"
+              }
+            ],
+            "PackageID": "com.epos.14prolock"
+        },
+        {
+            "Name": "ColorBoard",
+            "Description": "A slight hint of color",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    },
+                    {
+                        "Label": "Discord: @HackZy - Icon & Header Creator",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ico_5.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/headerrepo_2.png",
+            "Category": "Springboard",
+            "Caption": "The all-in-one tweak to bring color to your device, Changing 3D touch/menu colors, Dock colors, Notification colors, Folder colors & Control Center modules, background colors & App Library Colors & so much more.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss1.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss2.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss3.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss4.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss5.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss6.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/ColorBoard/ss7.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.1.misaka",
+                  "Description": "Bug Fixes \n • Notification Stacking \n • Notification Shadow \n • Notification Dark Secondary Text Color \n Added Features \n • Switcher Blur \n • Spotlight Color \n • Transparent App Library Pods"
+              },
+              {
+                  "Version": "1.2",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.2.misaka",
+                  "Description": "Added Features \n • Notification Badge Color \n Tweak Improvements \n • Option to disable the effects."
+              },
+              {
+                  "Version": "1.3",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.3.misaka",
+                  "Description": "Fixed Badge Color, & added support for kfd."
+              },
+              {
+                  "Version": "1.4 Beta",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.4.misaka",
+                  "Description": "Added opacity values to Dock, Control Center & Folder colors & a option to make the control center modules & toggles clear."
+              },
+              {
+                  "Version": "1.5",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/ColorBoard/Releases/ColorBoard1.5.misaka",
+                  "Description": "Changed Disable Effects to Enable, Now let’s you turn off options and the files will not be replaced, Improved Spotlight colors, Added a new Pink color for notification badges & general tweak stability improvements."
+              }
+            ],
+            "PackageID": "com.epos.colorboard"
+        },
+        {
+            "Name": "MuteAnimation",
+            "Description": "Custom mute animations or image",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029 & EPOS",
+                "Links": [
+                    {
+                        "Label": "EPOS",
+                        "Link": "https://twitter.com/RealEPOS"
+                    },
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/headerrepo.png",
+            "Category": "Springboard",
+            "Caption": "Changes your silent pill to a custom image or animation.",
+            "Screenshot": [
+                "https://github.com/EPOS05/MisakaRepoEPOS/raw/main/Tweaks/MuteAnimation/gif_2.gif",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/MuteAnimation/ss2.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/MuteAnimation/Releases/MuteAnimation.misaka",
+                  "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/MuteAnimation/Releases/MuteAnimation1.1.misaka",
+                  "Description": "Added an option to adjust the position of the animation or custom image."
+              }
+            ],
+            "PackageID": "com.epos.muteanimation"
+        },
+        {
+            "Name": "QuickActionColor",
+            "Description": "Give your lockscreen a unique look",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
+            "Author": {
+                "Label": "tyler1029",
+                "Links": [
+                    {
+                        "Label": "Discord: @tyler1029",
+                        "Link": "https://discord.gg/bbJAqj7np5"
+                    }
+                ]
+            },
+            "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/icon.png",
+            "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/headerrepo.png",
+            "Category": "Lock Screen",
+            "Caption": "Changes your lockscreen toggle color.",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Pink.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Blue.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Green.png",
+                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/Screenshots/Rainbow.png"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/tyler10290/MisakaRepoBackup/raw/main/Tweaks/QuickActionColor/Releases/QuickActionColor.misaka",
+                  "Description": "initial release"
+              }
+            ],
+            "PackageID": "com.epos.quickactioncolor"
+        }
+    ]
+}
