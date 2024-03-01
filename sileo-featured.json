@@ -1,0 +1,19 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://epos05.github.io/eposbox/assets/banners/com.epos.doublebubble.png",
+        "title": "Double Bubble Settings Reborn",
+        "package": "com.epos.doublebubble",
+        "hideShadow": false
+    },
+    {
+        "url": "https://epos05.github.io/eposbox/assets/banners/com.epos.wayfinderclock.png",
+        "title": "Wayfinder Clock",
+        "package": "com.epos.wayfinderclock",
+        "hideShadow": false
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+	"minVersion": "0.1",
+	"tintColor": "#1de4bb",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Change your font!",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "screenshot",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.bronkoh/screenshots/ss.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.bronkoh/screenshots/ss2.png"
+						}
+					]
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Fonts (Bronkoh - Evelyn)",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "Change your font to the 'Bronkoh' font!",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Updated",
+					"text": "22-2-2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "EPOS",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/RealEPOS",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Initial release",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22-2-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
