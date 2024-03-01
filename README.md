@@ -2,5 +2,8 @@
 # tyler10290
 A backup repo for all my tweaks 🍓
 
-## Repo
+## Misaka Repo
 You can add my repo by copying the following URL: https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json
+
+## Sileo Repo
+You can add my repo by copying the following URL:
