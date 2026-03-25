@@ -15,7 +15,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "26.0",
             "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
+                "MinIOSVersion_CustomLabel": "17.0",
                 "MaxIOSVersion_CustomLabel": "26.0",
                 "Build": [
                     "20G5026e"
@@ -31,22 +31,22 @@
                 ]
             },
             "Icon": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ico_3.jpg",
-        "HeaderImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/headerrepo.png",
-            "Category": "Lock Screen",
-            "Caption": "Apple Round + Google Sans Fonts for iOS 17+ ",
+        "HeaderImage": "https://.png",
+            "Category": "Fonts",
+            "Caption": "Apple Round Font for iOS 17+ ",
             "Screenshot": [
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss_2.png",
-                "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/LSFootnote/ss2.png"
+                "https://.png",
+                "https://.png"
             ],
             "Releases": [
               {
                   "Version": "1.0",
-                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont%26googlesans.misaka/com.coolwcat.appleroundfont.GoogleSansen.misaka",
+                  "Package": "https://github.com/huligang/coolwcat/releases/download/com.coolwcat.appleroundfont.misakaios16/com.coolwcat.appleroundfontios16_v1.0.misaka",
                   "Description": "initial release"
               }
             ],
 
-            "PackageID": "com.coolwcat.appleroundfont.GoogleSansen"
+            "PackageID": "com.coolwcat.appleroundfontios16"
         }
     ]
 }
