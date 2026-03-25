@@ -11,7 +11,7 @@
     "RepositoryContents": [
         {
         "Name": "Apple Round Font iOS 17+",
-            "Description": "Apple Round Font iOS 17+",
+            "Description": "",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "26.0",
             "AdditionalSupportedIOS": {
